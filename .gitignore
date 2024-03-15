@@ -9,6 +9,7 @@ videnv/
 audios/
 videos/
 texts/
+videoclips/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

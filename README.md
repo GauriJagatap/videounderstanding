@@ -9,6 +9,8 @@ bash setup.sh
 
 sets up a python venv and install libraries from requirements.txt
 
+requires ffmpeg, cuda to be pre-installed
+
 ### rawvideo
 Extract raw videos from YT url, fetch the description and strip the audio.
 
