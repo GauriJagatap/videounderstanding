@@ -6,6 +6,9 @@ videnv/
 *.wav
 *.mov
 *.mp3
+audios/
+videos/
+texts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
