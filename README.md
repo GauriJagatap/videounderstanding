@@ -2,4 +2,4 @@
 Toolset of everything needed in video understanding.
 
 ### rawvideo
-Extract raw videos from url and strip the audio.
+Extract raw videos from YT url, fetch the description and strip the audio.
