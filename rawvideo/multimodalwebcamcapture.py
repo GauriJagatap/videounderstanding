@@ -51,7 +51,7 @@ vidcap = cv2.VideoCapture(0)
 vid_buffer = []
 fps = 30
 buff_time = 2
-vidbufsize = fps * 2 # save last 2 sec of video frames in vid_buffer = 2 x 30fps
+vidbufsize = fps * buff_time # save last 2 sec of video frames in vid_buffer = 2 x 30fps
 # initialize audio streaming
 rate = 44100
 frames_per_buffer = rate // fps
